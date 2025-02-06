@@ -8,7 +8,7 @@ This repository contains a template for a Nextflow pipeline designed to process 
 
    ```sh
    git clone https://github.com/kjabe/nextflow-pipeline-template-python.git
-   cd nextflow_pipeline_template_python
+   cd nextflow-pipeline-template-python
    ```
 
 2. **Install Nextflow:**
